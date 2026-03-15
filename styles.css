@@ -429,4 +429,11 @@ a{
     .search-bar{
         width: 70%;
     }
+    .link1{
+        font-size: 1.6rem;
+    }
+    #logo1{
+        height: 2.3rem;
+        margin-bottom: .2rem;
+    }
 }
