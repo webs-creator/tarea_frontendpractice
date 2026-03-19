@@ -9,7 +9,7 @@ html{
     --blanco: #fff;
     --gris: #615959;
     --borde: #160404;
-    --altura_header: 8rem;
+    --altura_header: 7rem;
 }
 *{
     margin: 0;
